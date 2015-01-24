@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: html in author bios
-Plugin URI: http://pankajanupam.in/wordpress-plugins/
+Plugin URI: http://pankajanupam.com/wordpress-plugins/html-in-author-bios
 Description: html in autor bios
 Version: 1.0
-Author: PANKAJ ANUPAM
-Author URI: http://pankajanupam.in
+Author: BigBrother
+Author URI: http://pankajanupam.com
 
 * LICENSE
     Copyright 2011 PANKAJ ANUPAM  (email : mymail.anupam@gmail.com)
